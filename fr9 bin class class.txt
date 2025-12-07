@@ -1,0 +1,6 @@
+fr9 bin class :class
+$
+@submit-prevent
+v-model
+this.$router.push('/')
+:cart="cart" chnw 3mln lhne
